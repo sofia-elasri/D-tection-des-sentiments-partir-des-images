@@ -13,4 +13,6 @@ reconnaissance faciale et la détection d'objets. De plus, les prédictions sont
 données à un moment donné.
 La figure montre la structure du réseau utilisée pour la détection des émotions à l'aide de repères
 faciaux. Ce réseau prend une image d'entrée et tente de prédire l'émotion de sortie.
+
+
 ![image](https://github.com/user-attachments/assets/5bce91c9-f0e7-4bd2-9f52-8f28d07e126a)
